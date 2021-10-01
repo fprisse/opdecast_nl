@@ -17,11 +17,11 @@ body {
     z-index: -1;
 }
 
-/* container for music player */
+/* container for music player - original size 300-250*/
 .container {
     position: absolute;
-    height: 300pt;
-    width: 250pt;
+    height: 480pt;
+    width: 320pt;
     margin: auto;
     top: 0;
     left: 0;
