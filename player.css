@@ -21,9 +21,9 @@ body {
 .container {
     position: absolute;
     /* height: 300pt */
-    height: 300pt;
+    height: 360pt;
     /* width: 250pt */
-    width: 250pt;
+    width: 300pt;
     margin: auto;
     top: 0;
     left: 0;
