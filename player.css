@@ -20,9 +20,9 @@ body {
 /* container for music player */
 .container {
     position: absolute;
-    /* height: 480pt */
+    /* height: 300pt */
     height: 480pt;
-    /* width: 320pt */
+    /* width: 250pt */
     width: 320pt;
     margin: auto;
     top: 0;
