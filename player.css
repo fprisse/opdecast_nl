@@ -17,10 +17,12 @@ body {
     z-index: -1;
 }
 
-/* container for music player - original size 300-250*/
+/* container for music player */
 .container {
     position: absolute;
+    /* height: 480pt */
     height: 480pt;
+    /* width: 320pt */
     width: 320pt;
     margin: auto;
     top: 0;
@@ -39,7 +41,8 @@ body {
 /* container for play, pause, previous track, next track, and progress bar  */
 .box {
     position: absolute;
-    height: 50%;
+    /* height: 50% */
+    height: 30%;
     width: 103%;
     background: -webkit-linear-gradient(45deg, rgb(40, 40, 40), rgb(133, 133, 133));
     z-index: 4;
