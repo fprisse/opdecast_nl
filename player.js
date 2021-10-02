@@ -9,27 +9,27 @@ let pPause = document.querySelector('#play-pause'); // element where play and pa
 
 songIndex = 0;
 songs = ['http://icecast.radiofrance.fr/fip-midfi.mp3',
-'http://icecast.radiofrance.fr/fiprock-midfi.mp3',
-'http://icecast.radiofrance.fr/fipjazz-midfi.mp3',
 'http://icecast.radiofrance.fr/fipgroove-midfi.mp3',
+'http://21293.live.streamtheworld.com/SUBLIME.mp3',
+'https://streams.dancefm.net/aac-96',
 'http://classicalking.streamguys1.com/king-fm-mp3',
 'http://icecast.omroep.nl/radio1-bb-mp3']; // object storing paths for audio objects
 thumbnails = ['./assets/images/fip_radio.png',
-'./assets/images/fip_rock.png',
-'./assets/images/fip_jazz.png',
 './assets/images/fip_groove.png',
+'./assets/images/sublime.png',
+'./assets/images/dancefm.png',
 './assets/images/king1.png',
 './assets/images/radio1.png']; // object storing paths for album covers and backgrounds
 songArtists = ['France Inter Paris',
 'France Inter Paris',
-'France Inter Paris',
-'France Inter Paris',
+'Sublime FM',
+'Dance FM',
 'King Seatle',
 'NPO']; // object storing track artists
 songTitles = ['Live Radio',
-'Rock',
-'Jazz',
 'Groove',
+'Funk-Soul-Jazz',
+'Electro',
 'Classic FM 98.1',
 'Radio1']; // object storing track titles
 
