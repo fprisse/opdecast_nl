@@ -84,8 +84,8 @@ body {
 /* style for play and pause images */
 #play-pause {
     position: absolute;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     filter: invert(1);
     cursor: pointer;
     bottom: 15%;
@@ -97,8 +97,8 @@ body {
 /* style for next and previous song images */
 #next-song, #previous-song {
     position: absolute;
-    height: 60px;
-    width: 60px;
+    height: 90px;
+    width: 90px;
     filter: invert(1);
     cursor: pointer;
     bottom: 13.5%;
