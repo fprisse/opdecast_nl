@@ -88,10 +88,10 @@ body {
     width: 150px;
     filter: invert(1);
     cursor: pointer;
-    bottom: 15%;
+    bottom: 10%;
     z-index: 4;
     font-size: 53px;
-    left: 9%;
+    left: 5%;
 }
 
 /* style for next and previous song images */
@@ -101,7 +101,7 @@ body {
     width: 90px;
     filter: invert(1);
     cursor: pointer;
-    bottom: 13.5%;
+    bottom: 10%;
     font-size: 40px;
     z-index: 4;
 }
@@ -113,8 +113,8 @@ body {
 
 /* unique style for previous song image */
 #previous-song {
-    right: 10.3%;
-    bottom: 21.5%;
+    right: 10%;
+    bottom: 10%;
 }
 
 /* style for current time of the track */
