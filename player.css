@@ -65,7 +65,7 @@ body {
     color: rgb(193, 255, 6);
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     bottom: 21%;
     left: 28%;
 }
@@ -76,7 +76,7 @@ body {
     z-index: 4;
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 17px;
+    font-size: 20px;
     bottom: 16%;
     left: 28%;
 }
