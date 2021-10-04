@@ -66,8 +66,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 24px;
-    bottom: 21%;
-    left: 28%;
+    bottom: 20%;
+    left: 30%;
 }
 
 /* track title */
@@ -77,8 +77,8 @@ body {
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    bottom: 16%;
-    left: 28%;
+    bottom: 15%;
+    left: 30%;
 }
 
 /* style for play and pause images */
@@ -105,16 +105,13 @@ body {
     font-size: 40px;
     z-index: 4;
 }
-
-/* unique style for next song image */
-#next-song {
-    right: 10%;
-}
-
 /* unique style for previous song image */
 #previous-song {
-    right: 10%;
-    bottom: 10%;
+    right: 15%;
+}
+/* unique style for next song image */
+#next-song {
+    right: 5%;
 }
 
 /* style for current time of the track */
