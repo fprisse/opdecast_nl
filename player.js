@@ -10,7 +10,7 @@ let pPause = document.querySelector('#play-pause'); // element where play and pa
 songIndex = 0;
 songs = ['http://icecast.radiofrance.fr/fip-midfi.mp3',
 'http://icecast.radiofrance.fr/fipgroove-midfi.mp3',
-'https://icecast.radiofrance.fr/fipelectro-midfi.mp3'
+'https://icecast.radiofrance.fr/fipelectro-midfi.mp3',
 'http://classicalking.streamguys1.com/king-fm-mp3',
 'http://stream.live.vc.bbcmedia.co.uk/bbc_world_service',
 'http://icecast.omroep.nl/radio1-bb-mp3']; // object storing paths for audio objects
