@@ -18,7 +18,7 @@ thumbnails = ['./assets/images/fip_radio.png',
 './assets/images/fip_groove.png',
 './assets/images/dancefm.png',
 './assets/images/king1.png',
-'./assets/images/sublime.png',
+'./assets/images/bbcworld.png',
 './assets/images/radio1.png']; // object storing paths for album covers and backgrounds
 songArtists = ['France Inter Paris',
 'France Inter Paris',
