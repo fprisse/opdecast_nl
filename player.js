@@ -20,7 +20,7 @@ thumbnails = ['./assets/images/fip_radio.png',
 './assets/images/king1.png',
 './assets/images/bbcworld.png',
 './assets/images/radio1.png']; // object storing paths for album covers and backgrounds
-songArtists = ['Speciaal voor Felix',
+songArtists = ['France Inter Paris',
 'France Inter Paris',
 'France Inter Paris',
 'King Seatle',
